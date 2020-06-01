@@ -1,0 +1,37 @@
+Project Title 	    : IISPS_INT_1931_Predicting Life Expectancy Using Machine Learning
+Project Mentor : Mr Prashanth 					Date:March 25 2020
+		      Mr Charan
+PROJECT SCOPE DOCUMENT
+1.PROJECT SUMMARY:
+A typical Regression Machine Learning  project leverages historical data to predict insights into the future .This problem statement is aimed at predicting Life Expectancy rate of a country given various features.
+
+Life Expectancy  is a statistical measue of the average time a human being is expected to live, Life expectancy depends on various factors : Regional variations, Economic Circumstacnes, Sex Differences, Mental Illnesses ,Physical Illnesses , Education, Year of the ir birth ans other demographic factors. This problem statement provides a way to predict average life expectancy of people living in a country when various factors such as year, GDP, education, alcohol intake of people in the country, expenditure on healthcare system and some specific disease related deaths that happened in the country are given.
+2.PROJECT REQUIREMENTS:
+    2.1 FUNCTIONAL REQUIREMENTS:	
+           Predicting the life expectancy rate of a country
+    2.2 TECHNICAL REQUIREMENTS:
+           Python, IBM cloud, IBM watson
+    HARDWARE REQUIREMENTS
+   	Processor : i3 7th gen or higher
+  	Speed : 2GHz or more
+            Hard disc space  : 10GB or more
+     2.3 SOFTWARE REQUIREMENTS 
+            Zoho writer
+	IBM cloud
+	IBM watson
+	Python
+	Jupyter notebook
+	Node Red
+3.PROJECT DELIVERABLES
+Each and every projects yeilds its own deliverables in the same manner Predicting Life Expectancy Using Machine Learning also yeilds its own output.
+All the project deliverables shall be pushed to GitHub Repository & daily work status shall be updated to mentor via Slack Channel
+4.PROJECT TEAM
+	Team member :Lellapati Aditya Reddy
+	Team Mentors: Mr Charan
+			    Mr Prashanth
+5.PROJECT SCHEDULE
+Project appreoved on 19 March 2020
+PRoject duration is 30 days
+
+
+
